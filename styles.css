@@ -1,0 +1,36 @@
+header{
+    text-align: left;
+    padding: 50px 20px 50px 100px;
+    height: 150px;
+    background-image: url("/Assets/Saeed.jpg");
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: 70% 50%;
+    background-color: lightblue;
+    border-radius: 10px;
+    box-shadow: 8px 8px 10px grey;
+}
+.blog{
+    border: 1.8px solid blue;
+    border-radius: 10px;
+    margin: 10px 10px 20px;
+    padding: 10px 10px 20px 20px;
+    background-color:rgb(81, 93, 97) ;
+    box-shadow: 8px 8px 10px grey;
+    height: 250px;
+}
+.id{
+    text-align: center;
+    text-decoration: overline;
+}
+ul li{
+    color: blue;
+    display: inline;
+    padding-right: 40px;
+}
+.pp{
+    text-align: center;
+}
+.tt{
+    text-decoration: overline;
+}
